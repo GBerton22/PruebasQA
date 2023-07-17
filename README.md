@@ -1,2 +1,3 @@
 # PruebasQA
-Ejercicios de prueba y practica selenium
+Ejercicios de prueba y practica selenium con python
+
